@@ -1,0 +1,12 @@
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\bin\Debug\net6.0\MindboxTestTask.deps.json
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\bin\Debug\net6.0\MindboxTestTask.dll
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\bin\Debug\net6.0\MindboxTestTask.pdb
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\obj\Debug\net6.0\MindboxTestTask.csproj.AssemblyReference.cache
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\obj\Debug\net6.0\MindboxTestTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\obj\Debug\net6.0\MindboxTestTask.AssemblyInfoInputs.cache
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\obj\Debug\net6.0\MindboxTestTask.AssemblyInfo.cs
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\obj\Debug\net6.0\MindboxTestTask.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\obj\Debug\net6.0\MindboxTestTask.dll
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\obj\Debug\net6.0\refint\MindboxTestTask.dll
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\obj\Debug\net6.0\MindboxTestTask.pdb
+C:\Users\Админ\Documents\projects\MindboxTestTask\MindboxTestTask\obj\Debug\net6.0\ref\MindboxTestTask.dll
